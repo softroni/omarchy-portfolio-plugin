@@ -15,6 +15,10 @@ total value at a glance, per-holding breakdown, and a live trend chart.
 
 ---
 
+<div align="center">
+  <img src="docs/screenshot.png" alt="omarchy-portfolio-plugin panel with holdings and trend chart" width="520">
+</div>
+
 ## Features
 
 - **Bar pill** — shows your total portfolio value, auto-sizing like the clock widget
