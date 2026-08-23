@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "softroni.portfolio",
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "author": "softroni",
+  "description": "Portfolio value and trend tracker for stocks, ETFs, and funds",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Portfolio",
+    "description": "Total portfolio value",
+    "category": "Finance",
+    "allowMultiple": false
+  }
+}
